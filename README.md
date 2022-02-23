@@ -8,6 +8,6 @@ To utilize the program:
 3. Extract the content of the ZIP file.
 4. Execute Project5.sln.
 5. For '5DayForecast', 'AirplaneAndHotelSpace', and 'Wcf(getvacationspotservice)' in the Solution Explorer, expand and right-click the .svc file to then select 'View in Browser'.
-6. In the solution explorer, right-click 'TripBookingLibrary' and select 'Build'.
+6. Right-click 'TripBookingLibrary' in the Solution Explorer and select 'Build'.
 7. Right-click 'TripBookingWebApp' in the Solution Explorer and select 'Set as Startup Project'.
 8. At the top of Visual Studio, press the 'IIS Express' button.
